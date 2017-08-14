@@ -1,0 +1,1 @@
+ks //IS/ks --StartMode=exe --StartPath=%ks% --StartImage="%ks%\nginx.exe" --StopMode=exe --StopPath="%ks%" --StopImage="%ks%\nginx.exe" --StopParams="-s#stop" --LogPath="%ks%\daemon"
